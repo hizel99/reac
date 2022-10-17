@@ -1,0 +1,32 @@
+.Grid1{
+    justify-content: center;
+    margin: 50px;
+    padding: 40px;
+    gap: 10px;
+    border: 1px solid black;
+    
+}
+.back-form{
+    margin: 20px;    
+}
+.form{
+    border: 1px solid black;
+    padding:  8px;
+    background-color: #858483 ;
+    opacity: 1;
+}
+.ButtonDelete{
+    background-color: blue;
+    border-radius: 5px;
+    padding: 6px;
+}
+.Card-Color{
+    border: 1px solid black;
+    text-align: center;
+    background-color: gray; ;
+    padding: 5px;
+    border-radius: 7px;
+        
+};
+
+
